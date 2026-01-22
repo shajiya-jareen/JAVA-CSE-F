@@ -138,7 +138,7 @@ class Main {
     }
 }
 
-````
+```
 
 ## OUTPUT:
 
@@ -146,4 +146,75 @@ class Main {
 
 
 ## EXPERIMENT 3C
-## TITLE:Implementing Bubble Sort
+## TITLE:Implementing Bubble Sort.
+
+---
+
+## SOURCE CODE:Bubble Sort
+
+```
+
+class BubbleSort {
+
+	void bubbleSort(int arr[]) {
+
+		int n = arr.length;
+		int temp = 0;
+
+		for(int i=0 ; i < n-1 ; i++) {
+
+			for(int j=0; j<n-i-1; j++) {
+
+				if(arr[j] > arr[j+1]) {
+
+					temp = arr[j+1];
+					arr[j+1] = arr[j];
+					arr[j] = temp;
+
+				}
+			}
+		}
+
+	}
+
+}
+
+```
+
+## MAIN.JAVA:
+
+```
+
+import java.util.Scanner;
+
+class Main {
+
+    public static void main(String args[]) {
+
+        Scanner sc = new Scanner(System.in);
+
+        BinarySearch bs = new BinarySearch(10);
+        bs.setList();
+
+        System.out.print("Enter the key to search: ");
+        int key = sc.nextInt();
+
+        int index = bs.binarySearch(key);
+
+        if (index == -1)
+            System.out.println("Key item does not exist");
+        else
+            System.out.println("Key item exists at index: " + index);
+    }
+}
+
+```
+
+## OUTPUT:
+
+
+<img width="1920" height="1080" alt="EXP 3C" src="https://github.com/user-attachments/assets/00fbdb3e-d0d0-47a2-bbc7-af612563d896" />
+
+
+
+
