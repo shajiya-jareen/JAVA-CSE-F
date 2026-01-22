@@ -46,3 +46,7 @@ std1.display();
 
 ## OUTPUT:
 <img width="1920" height="1080" alt="EXP3A" src="https://github.com/user-attachments/assets/113ac400-e805-4b86-9049-cc7ea3ac9347" />
+
+
+
+
