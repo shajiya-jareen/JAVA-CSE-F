@@ -142,7 +142,8 @@ class Main {
 
 ## OUTPUT:
 
-<img width="1920" height="1080" alt="EXP 3B" src="https://github.com/user-attachments/assets/e346c0a4-41a3-4162-8639-6f6fa04cd807" />
+<img width="1920" height="1080" alt="EXP 3B" src="https://github.com/user-attachments/assets/5ece6d1d-c612-4543-af02-6374bfdfeb87" />
+
 
 
 ## EXPERIMENT 3C
