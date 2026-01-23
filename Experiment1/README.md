@@ -25,10 +25,14 @@ System.out.println("boolean:"+bool);
 }
 
 ```
-#output
+## OUTPUT:
+
 <img width="1920" height="1080" alt="Exp1a" src="https://github.com/user-attachments/assets/504e44d4-1f52-4254-8663-4c18e4878d1f" />
 
+
 ## TITLE: 1b.) Display the quadratic equation.
+## SOURCE CODE:
+
 ```
 
 import java.util.Scanner;
@@ -63,5 +67,6 @@ sc.close();
 
 ```
 
-#output
+## OUTPUT:
+
 <img width="1920" height="1080" alt="Exp1b" src="https://github.com/user-attachments/assets/ca6813ce-3f21-4f13-86c4-b43bdc817b99" />
