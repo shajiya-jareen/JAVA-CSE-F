@@ -53,7 +53,7 @@ f.generate();
 
 
 # ADDITIONAL EXPERIMENT 1:
-## TITLE: Insert a sub string into a given main string.
+## TITLE: 1) Insert a sub string into a given main string.
 ## SOURCE CODE:
 
 ```
@@ -96,7 +96,7 @@ class Substring {
 
 
 # ADDITIONAL EXPERIMENT 3:
-## TITLE:Determine if a given string is palindrome or not.
+## TITLE: 3) Determine if a given string is palindrome or not.
 ## SOURCE CODE:
 
 ```
@@ -131,7 +131,7 @@ class Palindrome {
 
 
 # ADDITIONAL EXPERIMENT 4:
-## TITLE:Check if a number is a perfect number.
+## TITLE: 4) Check if a number is a perfect number.
 ## SOURCE CODE:
 
 ```
