@@ -1,8 +1,6 @@
-## Experiment 3
+# Experiment 3:
 
-## Experiment 3A
-
-## TITLE: Implementing constructor overloading
+## TITLE: 3A)Implementing constructor overloading.
 
 ---
 
