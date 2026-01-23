@@ -1,5 +1,7 @@
-#Experiment 2
-##TITLE : 2a.)Display the student details
+# Experiment 2:
+## TITLE : 2a.)Display the student details
+## SOURCE CODE:
+
 ```
 
 class student{
@@ -20,11 +22,13 @@ s1.display();
 }
 }
 ```
-#output
+## OUTPUT:
 
 <img width="1920" height="1080" alt="Exp2a" src="https://github.com/user-attachments/assets/4883183b-8367-4b2f-a9a6-76c7d4a3116e" />
 
-##TITLE : 2b.)Display the Methodoverloading
+## TITLE : 2b.)Display the Methodoverloading
+## SOURCE CODE:
+
 ```
 
 class Methodoverloading {
@@ -45,12 +49,14 @@ System.out.println("Addition of doubles: " + obj.add(2.5, 3.5));
 }
 }
 ```
-#output
+## OUTPUT:
 <img width="1920" height="1080" alt="Exp2b" src="https://github.com/user-attachments/assets/7356d8c9-42a7-49e6-ad16-774af67a9cf7" />
 
 
 
-##TITLE : 2c.)Display the studentconstructor
+## TITLE : 2c.)Display the studentconstructor
+## SOURCE CODE:
+
 ```
 
 class studentconstructor {
@@ -74,7 +80,7 @@ s1.display();
 }
 ```
 
-#output
+## OUTPUT:
 
 <img width="1920" height="1080" alt="Exp2c" src="https://github.com/user-attachments/assets/4c8869b1-e085-415d-9532-ab5d3f85e05f" />
 
