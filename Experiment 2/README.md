@@ -1,5 +1,5 @@
 # Experiment 2:
-## TITLE : 2a.)Display the student details
+## TITLE : 2a) Display the student details.
 ## SOURCE CODE:
 
 ```
@@ -26,7 +26,7 @@ s1.display();
 
 <img width="1920" height="1080" alt="Exp2a" src="https://github.com/user-attachments/assets/4883183b-8367-4b2f-a9a6-76c7d4a3116e" />
 
-## TITLE : 2b.)Display the Methodoverloading
+## TITLE : 2b) Display the Methodoverloading.
 ## SOURCE CODE:
 
 ```
@@ -50,11 +50,12 @@ System.out.println("Addition of doubles: " + obj.add(2.5, 3.5));
 }
 ```
 ## OUTPUT:
+
 <img width="1920" height="1080" alt="Exp2b" src="https://github.com/user-attachments/assets/7356d8c9-42a7-49e6-ad16-774af67a9cf7" />
 
 
 
-## TITLE : 2c.)Display the studentconstructor
+## TITLE : 2c) Display the studentconstructor. 
 ## SOURCE CODE:
 
 ```
