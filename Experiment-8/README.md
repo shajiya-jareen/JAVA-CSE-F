@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed86dc26-6714-4385-a40c-d0e9e23f5e4e" />## EXPERIMENT 8
+## EXPERIMENT 8
 
 ## TITLE: 8A)Write a program illustrating Daemon Threads.
 ## SOURCE CODE:
